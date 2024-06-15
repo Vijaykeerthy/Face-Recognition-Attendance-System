@@ -9,8 +9,6 @@ Software for Industry , where they can track the attendence of their employee wi
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Plan
 - Task:
